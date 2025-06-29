@@ -8,8 +8,7 @@ env/
 venv/
 .venv/
 
-# SQLite database
-*.db
+
 
 # Streamlit specific
 .streamlit/secrets.toml
